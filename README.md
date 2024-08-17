@@ -10,6 +10,11 @@ This program is designed to help you update the firmware for the 2c23t device. I
 
 ## Installation
 
+## RECOMEND
+python 3.9.11
+
+https://www.python.org/downloads/release/python-3911/
+
 ### Step 1: Install Python and Required Libraries
 
 Ensure that Python is installed on your system. Then, install the necessary libraries using the following command:
